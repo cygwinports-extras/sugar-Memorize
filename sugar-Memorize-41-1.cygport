@@ -1,0 +1,5 @@
+SUGAR_TYPE="fructose"
+inherit sugar
+
+
+REQUIRES="gstreamer0.10-plugins-base gstreamer0.10-plugins-espeak"
