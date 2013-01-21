@@ -1,4 +1,7 @@
-SUGAR_TYPE="fructose"
+NAME="sugar-Memorize"
+VERSION=43
+RELEASE=1
+SUGAR_TYPE="honey"
 inherit sugar
 
 
